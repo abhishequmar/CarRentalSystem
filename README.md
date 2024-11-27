@@ -80,11 +80,7 @@ The **Car Rental System** is a backend service built using C# and .NET Core for 
 
 ---
 
-## Tools and Technologies
-- **C#** and **.NET Core** for API development.
-- **Entity Framework Core** for database management.
-- **JWT** for authentication and authorization.
-- **SendGrid** (or equivalent) for email notifications.
+## API Endpoints
 
 ---
 
