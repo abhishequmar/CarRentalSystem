@@ -1,9 +1,7 @@
-﻿# Create a README.md file for the Car Rental System API project
+#Car Rental System
 
-readme_content = """
-# Car Rental System API
 
-The **Car Rental System API** is a backend service built using C# and .NET Core for managing a fleet of rental cars. It includes functionalities for user management, car booking, availability checks, rental history, and user notifications. The system is built using Entity Framework (EF) and follows best practices for building RESTful APIs.
+The **Car Rental System** is a backend service built using C# and .NET Core for managing a fleet of rental cars. It includes functionalities for user management, car booking, availability checks, rental history, and user notifications. The system is built using Entity Framework (EF) and follows best practices for building RESTful APIs.
 
 ---
 
